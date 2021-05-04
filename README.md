@@ -1,18 +1,18 @@
 ## Welcome!
 
-### Languages
+#### Languages
  - c#
  - minor experience in c++.
 
-### Experience
+#### Experience
  - slaughter.in
 
-### Contact
+#### Contact
  - Telegram: 479-709-2880
  - Discord: blanket#6655
  - Email: fuckblanket@protonmail.com
 
-### Socials 
+#### Socials 
  - 
 
 
