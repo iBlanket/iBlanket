@@ -1,10 +1,11 @@
 ## Welcome!
 
 ### Languages
-c#, minor experience in c++.
+ - c#
+ - minor experience in c++.
 
 ### Experience
-slaughter.in
+ - slaughter.in
 
 ### Contact
  - Telegram: 479-709-2880
