@@ -8,7 +8,7 @@ slaughter.in
 
 ### Contact
 Telegram: 479-709-2880
-Discord: blanket#6655 | Blank#3345
+Discord: blanket#6655
 Email: fuckblanket@protonmail.com
 
 ### Socials 
