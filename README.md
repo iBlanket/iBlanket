@@ -16,4 +16,4 @@
  - https://www.youtube.com/channel/UCyOqF3k1F4Ke_BZrkmzNjgg
  - https://www.unknowncheats.me/forum/members/2501604.html
 
-![](https://github-readme-stats.vercel.app/api?username=joshissrsly&count_private=true&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=fuckblanket&count_private=true&show_icons=true&theme=radical)
