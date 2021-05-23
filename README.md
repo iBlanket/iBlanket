@@ -20,7 +20,7 @@
  - Telegram: 479-709-2880
  - Email: fuckblanket@protonmail.com
 
- ![](https://img.shields.io/badge/OS-Windows-blue?link=http://left&link=http://right) ![](https://img.shields.io/badge/Code-CSharp-orange) ![](https://img.shields.io/badge/IDE-Vs2019-orange)
+ ![](https://img.shields.io/badge/OS-Windows-blue) ![](https://img.shields.io/badge/Code-CSharp-orange) ![](https://img.shields.io/badge/IDE-Vs2019-blueviolet)
  
 ### Contributions
  - https://github.com/LightTechnologies/Windows-App
