@@ -19,7 +19,7 @@
  - blanket.wtf (domain no hosting)
  - Telegram: 479-709-2880
  - Email: fuckblanket@protonmail.com
-<p></p>
+
  ![](https://img.shields.io/badge/OS-Windows-blue) ![](https://img.shields.io/badge/Code-CSharp-orange)
  
 ### Contributions
