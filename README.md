@@ -23,6 +23,6 @@
  ![](https://img.shields.io/badge/OS-Windows-blue) ![](https://img.shields.io/badge/Code-CSharp-orange)
  
 ### Contributions
- - ![](https://img.shields.io/badge/OS-Windows-blue?link=https://github.com/LightTechnologies/Windows-App)
+ - ![](https://img.shields.io/badge/OS-Windows-blue&link=https://github.com/LightTechnologies/Windows-App)
 
 ![](https://github-readme-stats.vercel.app/api?username=fuckblanket&count_private=true&show_icons=true&theme=radical)
