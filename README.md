@@ -1,9 +1,9 @@
 ## Welcome!
 
-### Languages
+### 🖥️ Languages
  - c# [.Net Framework, .Net 5.0, Winforms]
 
-### Interests
+### 💡 Interests
  - c#, c++.
  - winapi
  - cyber security
