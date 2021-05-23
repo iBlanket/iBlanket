@@ -22,7 +22,7 @@
 
 ###
  - ![](https://img.shields.io/badge/Github-Youtube-red?link=http://Github.com&link=http://youtube.com&logo=Github)
- - ![](https://img.shields.io/badge/Hello-Welcome-blue)
+ - ![](https://img.shields.io/badge/OS-Windows-blue)
 
 ### Contributions
  - https://github.com/LightTechnologies/Windows-App
