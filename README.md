@@ -19,7 +19,10 @@
  - blanket.wtf (domain no hosting)
  - Telegram: 479-709-2880
  - Email: fuckblanket@protonmail.com
-![](https://img.shields.io/badge/Github-Youtube-red?link=http://Github.com&link=http://youtube.com&logo=Github)
+
+###
+ - ![](https://img.shields.io/badge/Github-Youtube-red?link=http://Github.com&link=http://youtube.com&logo=Github)
+ - ![](https://img.shields.io/badge/Hello-Welcome-blue)
 
 ### Contributions
  - https://github.com/LightTechnologies/Windows-App
