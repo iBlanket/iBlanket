@@ -17,9 +17,9 @@
 ### ☎️ Contact
  - slaughter.in (currently owned and opperated by me)
  - blanket.wtf (domain no hosting)
- - https://img.shields.io/badge/Github-Youtube-red?link=http://Github.com&link=http://youtube.com&logo=Github
  - Telegram: 479-709-2880
  - Email: fuckblanket@protonmail.com
+![](https://img.shields.io/badge/Github-Youtube-red?link=http://Github.com&link=http://youtube.com&logo=Github)
 
 ### Contributions
  - https://github.com/LightTechnologies/Windows-App
