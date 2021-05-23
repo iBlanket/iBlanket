@@ -21,7 +21,7 @@
  - Email: fuckblanket@protonmail.com
 
 ###
- - ![](https://img.shields.io/badge/OS-Windows-blue) ![](https://img.shields.io/badge/Code-C#-orange)
+ - ![](https://img.shields.io/badge/OS-Windows-blue) ![](https://img.shields.io/badge/Code-CSharp-orange)
  - 
 ### Contributions
  - https://github.com/LightTechnologies/Windows-App
