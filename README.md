@@ -1,7 +1,7 @@
 ## Welcome!
 
 ### 🖥️ Languages
- - c# [.Net Framework, .Net 5.0, Winforms]
+ - c# [.Net Framework, .Net 5.0, Winforms] and a lil c++
 
 ### 💡 Interests
  - c#, c++.
