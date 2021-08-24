@@ -13,6 +13,7 @@
  - tcp server-client connections/communications.
  - openvpn: openvpn manager & contributions to LightVpn.
  - windows api experience.
+ - much more i just dont have time to write it down.
 
 ### ☎️ Contact
  - slaughter.in (currently owned and opperated by me)
