@@ -1,24 +1,26 @@
 ## Welcome!
 
+### Latest:
+ - My Contributions and overall activity on here may be limited due to school starting.
+ - I dont like to contribute to others projects due to the fact using git and having to fork repos is very annoying to me but im always willing to help, just reach out!
+
 ### 🖥️ Languages
- - c# [.Net Framework, .Net 5.0, Winforms] and a lil c++
-
+ - Confident in c# [.Net Framework & .Net 5.0]
+ - Semi-Confident in c++
+ 
 ### 💡 Interests
- - c#, c++.
- - winapi
- - cyber security
-
-### 🖊️ Experience
- - discord bot development with dsharp.
- - tcp server-client connections/communications.
- - openvpn: openvpn manager & contributions to LightVpn.
- - windows api experience.
- - much more i just dont have time to write it down.
+ - Computer Science
+ - Windows Api & WinApi Hooking
+ - Malware
+ - Cyber Security
+ - Game Hacking
+ - General Windows Software Exploitation
 
 ### ☎️ Contact
- - slaughter.in (currently owned and opperated by me)
+ - slaughter.in
  - blanket.wtf (domain no hosting)
- - Telegram: 479-709-2880
+ - T.Me: 479-709-2880
+ - Phone: 443-403-7706 
  - Email: fuckblanket@protonmail.com
 
  ![](https://img.shields.io/badge/OS-Windows-blue) ![](https://img.shields.io/badge/Code-CSharp-orange) ![](https://img.shields.io/badge/IDE-Vs2019-blueviolet)
