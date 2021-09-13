@@ -22,5 +22,5 @@
  
 ### Contributions
  - https://github.com/LightTechnologies/Windows-App
-
-![](https://github-readme-stats.vercel.app/api?username=fuckblanket&count_private=true&show_icons=true&theme=radical)
+ - 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuckblanket&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
