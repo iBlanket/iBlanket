@@ -1,20 +1,15 @@
 ## Welcome!
 
-### Latest:
+### About 🕮:
+ - Software Freelancer
+ - Confident C# Software Developer [.Net Framework & .Net 5]
+ - Semi-Confident C++ Software Developer
+ - Reverse Engineer & Software Security Enthusiast
+ - Focused On Game Hacking & Anit-Cheat Reversal.
+
+### Latest From Me 🗣️:
  - My Contributions and overall activity on here may be limited due to school starting.
  - I dont like to contribute to others projects due to the fact using git and having to fork repos is very annoying to me but im always willing to help, just reach out!
-
-### 🖥️ Languages
- - Confident in c# [.Net Framework & .Net 5.0]
- - Semi-Confident in c++
- 
-### 💡 Interests
- - Computer Science
- - Windows Api & WinApi Hooking
- - Malware
- - Cyber Security
- - Game Hacking
- - General Windows Software Exploitation
 
 ### ☎️ Contact
  - slaughter.in
