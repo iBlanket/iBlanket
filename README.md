@@ -16,7 +16,9 @@ Reverse Engineer.\
 
  ![](https://img.shields.io/badge/OS-Windows-blue) ![](https://img.shields.io/badge/Code-CSharp-orange) ![](https://img.shields.io/badge/IDE-Vs2019-blueviolet)
  
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuckblanket&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Contributions
  - https://github.com/LightTechnologies/Windows-App
- - 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuckblanket&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
