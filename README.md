@@ -1,4 +1,3 @@
-##_
 
 ### 📖 About Me
  - C# & C++ Software Developer.
