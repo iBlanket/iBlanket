@@ -1,8 +1,8 @@
 ## Welcome!
 
 ### 📖 About Me
-C# & C++ Software Developer.\
-Reverse Engineer.\
+ - C# & C++ Software Developer.
+ - Reverse Engineer.
 
 ### 🗣️ Latest From Me
  - My Contributions and overall activity on here may be limited due to school starting.
