@@ -1,10 +1,8 @@
-line1
-line2
 
 ### 📖 About Me
- - C, C++ &
- - 
- - Reverse Engineer.
+ - C, C++, & C#
+ - Software Developer & Reverse Engineer
+ - Windows Software Developer
 
 ### 🗣️ Latest From Me
  - My Contributions and overall activity on here may be limited due to school starting.
