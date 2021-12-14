@@ -1,5 +1,6 @@
 
 ### 📖 About Me
+ - He/Him/His
  - C, C++, & C#
  - Software Developer & Reverse Engineer
  - Windows Software Developer
