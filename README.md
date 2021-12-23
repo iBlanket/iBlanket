@@ -13,7 +13,7 @@
  - Phone: 443-403-7706
  - Email: fuckblanket@protonmail.com
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuckblanket&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iBlanket&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Contributions
