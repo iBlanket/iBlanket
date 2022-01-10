@@ -8,5 +8,4 @@
  - My Contributions and overall activity on here may be limited due to school starting.
 
 ## ☎️ Contact
- - Phone: 443-403-7706
  - Email: fuckblanket@protonmail.com
