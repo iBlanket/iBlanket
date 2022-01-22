@@ -1,7 +1,7 @@
 
 ## 📖 About Me
  - He / Him
- - C++/C/asm Programmer & reverse engineer with background in C#
+ - C++/C/NASMx86 Programmer & reverse engineer with background in C#
  - Youtube: https://www.youtube.com/channel/UCyOqF3k1F4Ke_BZrkmzNjgg
 
 ## 🗣️ Latest From Me
