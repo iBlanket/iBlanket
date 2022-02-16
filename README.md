@@ -8,4 +8,4 @@
  - My Contributions and overall activity on here may be limited due to school starting.
 
 ## ☎️ Contact
- - Email: fuckblanket@protonmail.com
+ - Email: blanket@locus.solutions
