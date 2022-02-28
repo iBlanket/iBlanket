@@ -1,11 +1,13 @@
 
 ## 📖 About Me
  - He / Him
- - C++/C/NASMx86 Programmer & reverse engineer with background in C#
- - Youtube: https://www.youtube.com/channel/UCyOqF3k1F4Ke_BZrkmzNjgg
+ - Software Developer & Reverse Engineer based around baltimore Maryland
+ - Proficient in C++ & C
+ - Background in C#
 
 ## 🗣️ Latest From Me
- - My Contributions and overall activity on here may be limited due to school starting.
+ - 
 
-## ☎️ Contact
+## ☎️ Contact & Socials
  - Email: blanket@locus.solutions
+ - Youtube: https://www.youtube.com/channel/UCyOqF3k1F4Ke_BZrkmzNjgg
