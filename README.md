@@ -1,7 +1,7 @@
 
 ## 📖 About Me
  - He / Him
- - Software Developer & Reverse Engineer based around baltimore Maryland
+ - Software Developer & Reverse Engineer based in Maryland
  - Proficient in C++ & C
  - Background in C#
 
