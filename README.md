@@ -6,7 +6,7 @@
  - Background in C#
 
 ## 🗣️ Latest From Me
- - 
+ - Its annoying how much commit spam editing this causes, someone should fix that.
 
 ## ☎️ Contact & Socials
  - Email: blanket@locus.solutions
