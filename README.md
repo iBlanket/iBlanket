@@ -14,4 +14,3 @@
 
 ## Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iblanket&theme=dark)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iblanket&layout=compact&theme=dark)
