@@ -1,16 +1,9 @@
 
-## 📖 About Me
+## 📖
  - He / Him
- - Software Developer & Reverse Engineer based in Maryland
- - Proficient in C++ & C
- - Background in C#
-
-## 🗣️ Latest From Me
- - Its annoying how much commit spam editing this causes, someone should fix that.
+ - Software Developer, Reverse Engineer, & GameHacking Enthusiast
+ - C++, C, & Assembly
 
 ## ☎️ Contact & Socials
  - Email: blanket@locus.solutions
  - Youtube: https://www.youtube.com/channel/UCyOqF3k1F4Ke_BZrkmzNjgg
-
-## Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=iblanket&theme=dark)</br>
