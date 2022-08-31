@@ -1,4 +1,5 @@
 ```
+- I like wrapping winapi functions from the 1800's in modern c++ dispite hating the abomination that is modern c++ :D
 - blankey#0001
 - https://steamcommunity.com/id/ebicblanket/
 - https://vk.com/xblankey
