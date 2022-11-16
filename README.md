@@ -1,6 +1,10 @@
+### 18 y.o. Software Developer, Reverse Engineer, & Russian Language Learner.
+
+#### Me :)
 ```
-- I like wrapping winapi functions from the 1800's in modern c++ dispite hating the abomination that is modern c++ :D
-- blankey#0001
+- @Blankeyy      | wiktionary / wikipedia / others
+- @blanketiscool | twitter
+- blankey#0001   | discord
 - https://steamcommunity.com/id/ebicblanket/
 - https://vk.com/xblankey
 ```
