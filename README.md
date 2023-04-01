@@ -1,9 +1,15 @@
-### 18 y.o. Software Developer, Reverse Engineer, & Russian Language Learner.
+# iBlanket
+18 y.o. Software Developer & Reverse Engineer
 
-#### Me :)
+## Interests
+- c, c++, asm
+- reverse engineering
+- software security
+- windows internals
+
+#### Me :D
 ```
 - @blanketiscool | twitter
 - https://steamcommunity.com/id/ebicblanket/
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iBlanket&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
