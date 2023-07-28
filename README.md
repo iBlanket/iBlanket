@@ -9,7 +9,7 @@
 
 ## contact & socials
 - [telegram](https://t.me/m_pBlanket)
-- discord: blankey#3871
+- discord: @xblanket
 - signal/pidgeon: ( contact me to request )
 - [steam](https://steamcommunity.com/id/ebicblanket/)
 - [unknowncheats](https://www.unknowncheats.me/forum/members/2501604.html)
