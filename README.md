@@ -5,7 +5,8 @@
 - c, c++, asm
 - reverse engineering
 - software security
-- osdev, windows, windows internals, windows kernel, anything windows x3
+- osdev
+- windows, windows internals, windows kernel, anything windows
 
 ## contact & socials
 - discord/telegram, & most other socials: @mfence
